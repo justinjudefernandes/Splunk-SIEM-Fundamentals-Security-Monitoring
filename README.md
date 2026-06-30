@@ -91,6 +91,22 @@ This project focused on building a fully functional Splunk lab environment to un
 - Modified inputs.conf to collect Windows Security and Application logs.
 - Forwarded logs to the Splunk indexer and validated ingestion.
 
+📌 Screenshots as below: (from left to right)
+
+<img width="330" height="300" alt="image" src="https://github.com/user-attachments/assets/97ee05da-b038-4a77-a335-5a05d1de97a0" />
+<img width="330" height="300" alt="image" src="https://github.com/user-attachments/assets/a9ac7a6c-204f-4f9c-860f-fd173e8beddb" />
+<img width="330" height="300" alt="image" src="https://github.com/user-attachments/assets/a6ef9a52-b1ff-4b89-a979-b6427720947b" />
+<img width="330" height="300" alt="image" src="https://github.com/user-attachments/assets/4cdec103-7bd5-485c-8910-12191b79acde" />
+<img width="330" height="300" alt="image" src="https://github.com/user-attachments/assets/9e430eee-f05a-4a24-98d5-d693857e1d88" />
+<img width="330" height="300" alt="image" src="https://github.com/user-attachments/assets/3679759f-af1a-48f8-8fb9-7486a4e3a1f5" />
+<img width="370" height="300" alt="image" src="https://github.com/user-attachments/assets/d940ac1c-489a-430c-b050-8d4ab0983fe5" />
+<img width="630" height="300" alt="image" src="https://github.com/user-attachments/assets/eac26bf4-1c41-4b70-aa0a-57c47f504182" />
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/d627204c-7c01-4e8e-bc0c-6136958a93e9" />
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/42edd5fb-a56f-420a-ae55-8b4025418de1" />
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/233618ef-708a-414e-9d5e-babf7dd7456c" />
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/ec1a2581-73df-4c3c-b907-d323aebf260c" />
+
+
 ### 4. Custom Log Ingestion
 - Uploaded and onboarded custom datasets including:
   - Application Logs
