@@ -217,7 +217,6 @@ This project focused on building a fully functional Splunk lab environment to un
 <img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/e86ec3bd-88d9-4572-88ae-9fe738bb9cf2" />
 <img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/bdac85c4-fd73-477c-ae58-95fe8057064d" />
 
-
 ### 7. Data Analysis & Transformations
 - Used transforming commands to generate statistics and trends.
 - Performed event aggregation and time-based analysis.
