@@ -73,12 +73,17 @@ This project focused on building a fully functional Splunk lab environment to un
 <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/5f33fb08-93c3-4433-831f-44482c78378a" />
 <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/134e2dc2-37fd-4602-a09f-24d3f0ba32e3" />
 
-
-
-
 ### 2. Index Creation
 - Learned Splunk indexing concepts.
 - Created a dedicated security monitoring index named mydfir-soc.
+
+📌 Screenshots as below:
+
+<img width="975" height="375" alt="image" src="https://github.com/user-attachments/assets/a0133714-40bb-4c22-a870-b584552fed42" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/cad7b9e9-e10b-4d67-9b70-eb61fa835e41" />
+<img width="975" height="312" alt="image" src="https://github.com/user-attachments/assets/2af70c31-fcdc-466f-a737-64ad5b1d5ded" />
+
+
 
 ### 3. Data Onboarding & Forwarder Configuration
 - Installed Splunk Universal Forwarder on Windows.
