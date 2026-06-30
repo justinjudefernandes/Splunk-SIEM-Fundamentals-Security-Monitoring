@@ -234,8 +234,6 @@ This project focused on building a fully functional Splunk lab environment to un
 <img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/442ed2aa-6df5-4903-b2b1-b9854508d7d8" />
 <img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/319ebb3f-603c-4a92-b6fe-721f422ec195" />
 
-
-
 ### 8. Security Dashboard Creation
 - Designed a Linux Activity dashboard.
 - Implemented panels for:
@@ -243,6 +241,20 @@ This project focused on building a fully functional Splunk lab environment to un
   - Failed Logins by Hour
   - Successful Logins
 - Visualized authentication activity for security monitoring.
+
+#### 📌 Screenshots as below: (from left to right)
+<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/aed58d44-a182-43cc-947e-68d835521029" />
+<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/1d4153a3-7ade-4869-bb2f-41c5253b65fe" />
+<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/cd7a88da-f421-4077-a464-67460c400421" />
+<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/b5b27740-96c5-492a-995b-bec74e3df74b" />
+<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/bedafa77-288d-4cc2-b5b1-13947041ed49" />
+<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/152b650c-00f8-4a26-97b3-02099dfa50db" />
+<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/d7e0d572-abc7-4b22-adc3-b3be9ca564f1" />
+<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/a6631258-4780-4644-8968-947ff8189059" />
+<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/8cbad0f0-e80d-4f41-8076-8366824763f8" />
+<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/259dfe93-ab56-41e0-812d-b71cf5120748" />
+<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/3d01b262-b2a0-48c6-bf16-786da2cfcfe4" />
+<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/9a79b05e-284b-458e-8e54-ca87f7bca535" />
 
 ### 9. Alert Engineering
 - Developed a Brute Force Detection alert.
