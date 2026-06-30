@@ -59,12 +59,76 @@ This project focused on building a fully functional Splunk lab environment to un
 - Splunk Add-on Deployment for Windows & Sysmon
 
 ## 🔍 Steps Performed:
-
-#### Key Findings:
-
-#### What I Learned:
-
-#### What I Would Do Differently in a Production SOC:
+1. Splunk Deployment & Configuration
+Installed Splunk Enterprise on Ubuntu.
+Configured Splunk services and web interface.
+Enabled automatic startup and validated functionality.
+Configured UTC time settings.
+2. Index Creation
+Learned Splunk indexing concepts.
+Created a dedicated security monitoring index named mydfir-soc.
+3. Data Onboarding & Forwarder Configuration
+Installed Splunk Universal Forwarder on Windows.
+Configured receiving port 9997.
+Modified inputs.conf to collect Windows Security and Application logs.
+Forwarded logs to the Splunk indexer and validated ingestion.
+4. Custom Log Ingestion
+Uploaded and onboarded custom datasets including:
+Application Logs
+Security Logs
+Sysmon Logs
+PowerShell Logs
+Microsoft Defender Logs
+Zeek Logs
+Suricata Logs
+System Logs
+Configured sourcetypes, timestamps, hosts, and indexes.
+5. Parsing & Field Extraction
+Learned index-time and search-time parsing.
+Performed field extraction using Regular Expressions (REX).
+Extracted user and source IP fields from authentication logs.
+Validated extracted fields across datasets.
+6. SPL Query Development
+Applied Splunk search best practices.
+Developed optimized SPL queries using:
+fields
+table
+where
+sort
+dedup
+stats
+timechart
+eval
+fillnull
+coalesce
+Compared query performance using Job Inspector.
+7. Data Analysis & Transformations
+Used transforming commands to generate statistics and trends.
+Performed event aggregation and time-based analysis.
+Created summaries using stats and timechart commands.
+8. Lookup Table Enrichment
+Created a VIP user lookup table.
+Uploaded and integrated lookup data into searches.
+Enriched security events with user role information.
+9. Security Dashboard Creation
+Designed a Linux Activity dashboard.
+Implemented panels for:
+Top User Failed Logins
+Failed Logins by Hour
+Successful Logins
+Visualized authentication activity for security monitoring.
+10. Alert Engineering
+Developed a Brute Force Detection alert.
+Configured scheduled execution every minute.
+Tested alert triggering and validated alert management workflows.
+11. Scheduled Reporting
+Created a Weekly Failed Logins report.
+Scheduled automated report generation for SOC review.
+12. Splunk App Integration
+Installed and validated:
+Splunk Add-on for Microsoft Windows
+Splunk Add-on for Sysmon
+Enhanced field extraction and log normalization capabilities.
 
 
 
