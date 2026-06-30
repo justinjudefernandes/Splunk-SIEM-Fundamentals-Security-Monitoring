@@ -279,6 +279,13 @@ This project focused on building a fully functional Splunk lab environment to un
 
 #### 📌 Screenshots as below: (from left to right)
 
+<img width="330" height="200" alt="image" src="https://github.com/user-attachments/assets/75cf472b-89de-4b77-b7ce-63c81937371b" />
+<img width="330" height="200" alt="image" src="https://github.com/user-attachments/assets/48a63b9d-060b-46da-b967-507b37bf5334" />
+<img width="330" height="200" alt="image" src="https://github.com/user-attachments/assets/a0334c8a-fd55-44ba-945a-c773a31b9b32" />
+<img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/84d6d5f6-17c6-4ba6-8af5-2c1ae2bf5ec3" />
+<img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/d7bc453c-af5d-4a23-ac42-daef02eeb50d" />
+
+
 ### 11. Splunk App Integration
 - Installed and validated:
   - Splunk Add-on for Microsoft Windows
