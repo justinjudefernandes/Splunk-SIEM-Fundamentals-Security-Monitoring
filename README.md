@@ -99,16 +99,16 @@ This project focused on building a fully functional Splunk lab environment to un
 <img width="330" height="200" alt="image" src="https://github.com/user-attachments/assets/4cdec103-7bd5-485c-8910-12191b79acde" />
 <img width="330" height="200" alt="image" src="https://github.com/user-attachments/assets/9e430eee-f05a-4a24-98d5-d693857e1d88" />
 <img width="330" height="200" alt="image" src="https://github.com/user-attachments/assets/3679759f-af1a-48f8-8fb9-7486a4e3a1f5" />
-<img width="370" height="200" alt="image" src="https://github.com/user-attachments/assets/d940ac1c-489a-430c-b050-8d4ab0983fe5" />
-<img width="630" height="200" alt="image" src="https://github.com/user-attachments/assets/eac26bf4-1c41-4b70-aa0a-57c47f504182" />
-<img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/d627204c-7c01-4e8e-bc0c-6136958a93e9" />
-<img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/42edd5fb-a56f-420a-ae55-8b4025418de1" />
-<img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/233618ef-708a-414e-9d5e-babf7dd7456c" />
-<img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/ec1a2581-73df-4c3c-b907-d323aebf260c" />
-<img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/a663125a-46aa-4414-aac7-dd9be4eebd75" />
-<img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/2e68db1a-deef-4ae0-889e-008f544d3302" />
-<img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/d53c58e1-4971-4661-8078-5d3685d6f119" />
-<img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/8c759f53-580a-42d7-b3a5-2a9e52e24265" />
+<img width="330" height="200" alt="image" src="https://github.com/user-attachments/assets/d940ac1c-489a-430c-b050-8d4ab0983fe5" />
+<img width="330" height="200" alt="image" src="https://github.com/user-attachments/assets/eac26bf4-1c41-4b70-aa0a-57c47f504182" />
+<img width="330" height="200" alt="image" src="https://github.com/user-attachments/assets/d627204c-7c01-4e8e-bc0c-6136958a93e9" />
+<img width="330" height="200" alt="image" src="https://github.com/user-attachments/assets/42edd5fb-a56f-420a-ae55-8b4025418de1" />
+<img width="330" height="200" alt="image" src="https://github.com/user-attachments/assets/233618ef-708a-414e-9d5e-babf7dd7456c" />
+<img width="330" height="200" alt="image" src="https://github.com/user-attachments/assets/ec1a2581-73df-4c3c-b907-d323aebf260c" />
+<img width="330" height="200" alt="image" src="https://github.com/user-attachments/assets/a663125a-46aa-4414-aac7-dd9be4eebd75" />
+<img width="330" height="200" alt="image" src="https://github.com/user-attachments/assets/2e68db1a-deef-4ae0-889e-008f544d3302" />
+<img width="330" height="200" alt="image" src="https://github.com/user-attachments/assets/d53c58e1-4971-4661-8078-5d3685d6f119" />
+<img width="330" height="200" alt="image" src="https://github.com/user-attachments/assets/8c759f53-580a-42d7-b3a5-2a9e52e24265" />
 
 ### 4. Custom Log Ingestion
 - Uploaded and onboarded custom datasets including:
