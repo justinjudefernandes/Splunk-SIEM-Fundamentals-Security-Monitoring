@@ -7,12 +7,7 @@ To develop foundational Splunk SIEM skills by deploying a Splunk environment, on
 This project focused on building a fully functional Splunk lab environment to understand core SIEM operations. Activities included installing and configuring Splunk, onboarding multiple log sources, forwarding Windows event logs, performing SPL-based investigations, creating dashboards and alerts, enriching data with lookups, and developing security monitoring use cases. The project simulated real-world SOC analyst tasks and security investigations using Windows, Sysmon, Defender, PowerShell, Zeek, and Suricata logs.
 
 ## 🖥️ Lab Setup:
-- Splunk Enterprise deployed on Ubuntu Linux
-- Windows 10 Endpoint
-- Splunk Universal Forwarder
-- Custom Security Log Datasets
-- Security Monitoring Index (mydfir-soc)
-- Browser-based Splunk Search & Reporting Interface
+<img width="1103" height="1426" alt="Splunk Lab Setup" src="https://github.com/user-attachments/assets/1599b9c1-e506-4d92-9613-ff3fb76eab19" />
 
 ### 🧰 Tools Used:
 - Splunk Enterprise
