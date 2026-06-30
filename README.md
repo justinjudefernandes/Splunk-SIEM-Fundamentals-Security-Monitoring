@@ -77,14 +77,14 @@ This project focused on building a fully functional Splunk lab environment to un
 
 ### 4. Custom Log Ingestion
 - Uploaded and onboarded custom datasets including:
-- Application Logs
-- Security Logs
-- Sysmon Logs
-- PowerShell Logs
-- Microsoft Defender Logs
-- Zeek Logs
-- Suricata Logs
-- System Logs
+  - Application Logs
+  - Security Logs
+  - Sysmon Logs
+  - PowerShell Logs
+  - Microsoft Defender Logs
+  - Zeek Logs
+  - Suricata Logs
+  - System Logs
 - Configured sourcetypes, timestamps, hosts, and indexes.
 
 ### 5. Parsing & Field Extraction
@@ -96,16 +96,16 @@ This project focused on building a fully functional Splunk lab environment to un
 ### 6. SPL Query Development
 - Applied Splunk search best practices.
 - Developed optimized SPL queries using:
-- fields
-- table
-- where
-- sort
-- dedup
-- stats
-- timechart
-- eval
-- fillnull
-- coalesce
+  - fields
+  - table
+  - where
+  - sort
+  - dedup
+  - stats
+  - timechart
+  - eval
+  - fillnull
+  - coalesce
 - Compared query performance using Job Inspector.
 
 ### 7. Data Analysis & Transformations
@@ -121,9 +121,9 @@ This project focused on building a fully functional Splunk lab environment to un
 ### 9. Security Dashboard Creation
 - Designed a Linux Activity dashboard.
 - Implemented panels for:
-- Top User Failed Logins
-- Failed Logins by Hour
-- Successful Logins
+  - Top User Failed Logins
+  - Failed Logins by Hour
+  - Successful Logins
 - Visualized authentication activity for security monitoring.
 
 ### 10. Alert Engineering
@@ -137,8 +137,8 @@ This project focused on building a fully functional Splunk lab environment to un
 
 ### 12. Splunk App Integration
 - Installed and validated:
-- Splunk Add-on for Microsoft Windows
-- Splunk Add-on for Sysmon
+  - Splunk Add-on for Microsoft Windows
+  - Splunk Add-on for Sysmon
 - Enhanced field extraction and log normalization capabilities.
 
 
