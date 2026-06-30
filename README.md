@@ -170,6 +170,14 @@ This project focused on building a fully functional Splunk lab environment to un
 
 
 ### 6. SPL Query Development
+- Compared query performance using Job Inspector.
+- Learned that field names are sensitive while field values are not.
+- Reviewed the different search modes in Splunk:
+  - fast - showcases only a few interesting fields.
+  - smart - showcases a lot more interesting fields.
+- The main difference between smart and verbose modes is that when using transformation commands:
+  - smart - only displays statistics and visualizations, no events are displayed
+  - verbose - only displays events, statistics and visualizations
 - Applied Splunk search best practices.
 - Developed optimized SPL queries using:
   - fields
@@ -182,7 +190,7 @@ This project focused on building a fully functional Splunk lab environment to un
   - eval
   - fillnull
   - coalesce
-- Compared query performance using Job Inspector.
+
 
 ### 7. Data Analysis & Transformations
 - Used transforming commands to generate statistics and trends.
