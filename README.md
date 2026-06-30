@@ -85,8 +85,6 @@ This project focused on building a fully functional Splunk lab environment to un
 <img width="320" height="200" alt="image" src="https://github.com/user-attachments/assets/cad7b9e9-e10b-4d67-9b70-eb61fa835e41" />
 <img width="330" height="200" alt="image" src="https://github.com/user-attachments/assets/2af70c31-fcdc-466f-a737-64ad5b1d5ded" />
 
-
-
 ### 3. Data Onboarding & Forwarder Configuration
 - Installed Splunk Universal Forwarder on Windows.
 - Configured receiving port 9997.
@@ -224,6 +222,19 @@ This project focused on building a fully functional Splunk lab environment to un
 - Created a VIP user lookup table.
 - Uploaded and integrated lookup data into searches.
 - Enriched security events with user role information.
+
+#### 📌 Screenshots as below: (from left to right)
+
+<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/e96b1010-112e-46f8-8337-d5afe82942db" />
+<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/97a42a5d-7816-40d1-86fd-0e7d99df2bce" />
+<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/39ba6d5a-a6cb-403e-8401-82af2890cd36" />
+<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/4d4466f0-ef5c-4cee-9f7a-b39be65d95d2" />
+<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/c9b5a3ad-3218-442b-aa81-0dd36216396d" />
+<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/b86894fc-da90-4577-9f3b-431d7d784a87" />
+<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/442ed2aa-6df5-4903-b2b1-b9854508d7d8" />
+<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/319ebb3f-603c-4a92-b6fe-721f422ec195" />
+
+
 
 ### 8. Security Dashboard Creation
 - Designed a Linux Activity dashboard.
