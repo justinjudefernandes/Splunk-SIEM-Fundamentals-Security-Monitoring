@@ -105,6 +105,11 @@ This project focused on building a fully functional Splunk lab environment to un
 <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/42edd5fb-a56f-420a-ae55-8b4025418de1" />
 <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/233618ef-708a-414e-9d5e-babf7dd7456c" />
 <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/ec1a2581-73df-4c3c-b907-d323aebf260c" />
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/a663125a-46aa-4414-aac7-dd9be4eebd75" />
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/2e68db1a-deef-4ae0-889e-008f544d3302" />
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/d53c58e1-4971-4661-8078-5d3685d6f119" />
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/8c759f53-580a-42d7-b3a5-2a9e52e24265" />
+
 
 
 ### 4. Custom Log Ingestion
