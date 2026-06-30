@@ -243,6 +243,7 @@ This project focused on building a fully functional Splunk lab environment to un
 - Visualized authentication activity for security monitoring.
 
 #### 📌 Screenshots as below: (from left to right)
+
 <img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/aed58d44-a182-43cc-947e-68d835521029" />
 <img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/1d4153a3-7ade-4869-bb2f-41c5253b65fe" />
 <img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/cd7a88da-f421-4077-a464-67460c400421" />
@@ -256,20 +257,35 @@ This project focused on building a fully functional Splunk lab environment to un
 <img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/3d01b262-b2a0-48c6-bf16-786da2cfcfe4" />
 <img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/9a79b05e-284b-458e-8e54-ca87f7bca535" />
 
-### 9. Alert Engineering
+### 9. Created Actionable Alerts 
 - Developed a Brute Force Detection alert.
 - Configured scheduled execution every minute.
 - Tested alert triggering and validated alert management workflows.
 
+#### 📌 Screenshots as below: (from left to right)
+
+<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/4f27102f-60e1-4ff5-89a7-c9fb4bd50855" />
+<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/65cdd571-4f45-4d80-ab8b-a7f05c15854b" />
+<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/651df90a-4eb2-4823-a175-6ca6d6a7aeb9" />
+<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/5c91bac1-13f8-413f-b6a8-ce01fca7df39" />
+<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/5edc1214-fbeb-4e8c-afe0-fafb76fd5916" />
+<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/b9f0434a-a5f8-4b65-a658-2d0e5fb51e62" />
+<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/b389d0a4-8e30-4af7-a968-80486fcb9632" />
+<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/fc3c925b-4e5c-4c44-837b-40b6e2437baf" />
+
 ### 10. Scheduled Reporting
 - Created a Weekly Failed Logins report.
 - Scheduled automated report generation for SOC review.
+
+#### 📌 Screenshots as below: (from left to right)
 
 ### 11. Splunk App Integration
 - Installed and validated:
   - Splunk Add-on for Microsoft Windows
   - Splunk Add-on for Sysmon
 - Enhanced field extraction and log normalization capabilities.
+
+#### 📌 Screenshots as below: (from left to right)
 
 
 
