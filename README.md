@@ -285,7 +285,6 @@ This project focused on building a fully functional Splunk lab environment to un
 <img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/84d6d5f6-17c6-4ba6-8af5-2c1ae2bf5ec3" />
 <img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/d7bc453c-af5d-4a23-ac42-daef02eeb50d" />
 
-
 ### 11. Splunk App Integration
 - Installed and validated:
   - Splunk Add-on for Microsoft Windows
@@ -294,8 +293,16 @@ This project focused on building a fully functional Splunk lab environment to un
 
 #### 📌 Screenshots as below: (from left to right)
 
+<img width="330" height="200" alt="image" src="https://github.com/user-attachments/assets/1693e716-4c8d-4117-8140-5465a275e13a" />
+<img width="330" height="200" alt="image" src="https://github.com/user-attachments/assets/12149b2b-bf45-4f20-8e34-c8724a655f8d" />
+<img width="330" height="200" alt="image" src="https://github.com/user-attachments/assets/8128bbe3-be92-4a6d-a558-2e46bcbf6b5a" />
+<img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/50f9b68b-d9d1-4c53-a8c7-fb3d4529a059" />
+<img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/686af70e-4790-4fb2-9679-0825313d3375" />
+<img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/c55cb884-6f89-4a9a-9293-0f601d32fe0d" />
+<img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/c3d1a70f-c262-424a-a738-338c3f0cce1a" />
 
 
-## 🚨 Investigation Report:
+
+
 
 
