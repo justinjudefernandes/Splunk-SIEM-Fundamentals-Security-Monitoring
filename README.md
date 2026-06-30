@@ -124,6 +124,7 @@ This project focused on building a fully functional Splunk lab environment to un
 - Configured sourcetypes, timestamps, hosts, and indexes.
 
 #### 📌 Screenshots as below: (from left to right)
+
 <img width="330" height="200" alt="image" src="https://github.com/user-attachments/assets/3b076fd3-e751-4b5a-a1e4-214d48f84657" />
 <img width="330" height="200" alt="image" src="https://github.com/user-attachments/assets/bc6c2de0-a04b-4a93-96ae-c00c30d896d8" />
 <img width="330" height="200" alt="image" src="https://github.com/user-attachments/assets/4e6814a1-69f7-4c56-b0a2-45596820aa8e" />
@@ -137,13 +138,36 @@ This project focused on building a fully functional Splunk lab environment to un
 <img width="330" height="200" alt="image" src="https://github.com/user-attachments/assets/8e1aa8e4-068a-4b30-a016-04aa5ca62100" />
 <img width="330" height="200" alt="image" src="https://github.com/user-attachments/assets/ecf478f5-452f-48f7-b7dc-dbf353fbfc14" />
 
-
-
 ### 5. Parsing & Field Extraction
 - Learned index-time and search-time parsing.
 - Performed field extraction using Regular Expressions (REX).
 - Extracted user and source IP fields from authentication logs.
 - Validated extracted fields across datasets.
+
+#### 📌 Screenshots as below: (from left to right)
+
+<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/d14217e8-1852-44f3-bd6f-be560cf46349" />
+<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/2041613c-37a6-49d8-b30b-5735ce68f724" />
+<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/e963a153-ee0f-41a8-9584-d9d622938b4b" />
+<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/c1ef93e2-08af-4767-be0d-8e8121d76464" />
+<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/908ddcd1-adb0-46bf-b9e1-38059e6abf9d" />
+<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/e93bcba6-b26c-4c2e-81de-df8189e1cb58" />
+<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/2309bb77-0c06-496e-b882-5d366dc15729" />
+<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/bff6d81b-aeb8-4208-ad54-c06707f9056f" />
+<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/083f109e-c1b5-4319-aa34-e9bd1c701c56" />
+<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/3ab96df9-11cc-41f4-8677-dde72d83a1c6" />
+<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/e7699e44-3136-4bd1-8fcc-59ae97842c5b" />
+<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/84f9c987-d1ed-4acf-b06a-242e1eb74dfe" />
+<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/66ec83d7-f5fa-4c45-bf82-eb5d6ae4e526" />
+<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/2033e6d2-744b-490e-9782-669da26e0524" />
+<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/85ac3c02-6cc6-46c4-b3f0-0b362c0ebcc4" />
+<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/8a2dfbd7-d821-463d-8509-2bd84827999b" />
+<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/851d8465-1296-46d8-a449-515f4a281440" />
+<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/04bf9727-a33e-4523-b92e-7d81b645ea23" />
+<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/a270c29c-e6ad-4271-a5a0-979d9d4cc915" />
+<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/90ce4495-976d-430c-bdfe-2d7e54e15af0" />
+
+
 
 ### 6. SPL Query Development
 - Applied Splunk search best practices.
