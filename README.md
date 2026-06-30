@@ -62,7 +62,20 @@ This project focused on building a fully functional Splunk lab environment to un
 
 📌 Screenshots as below:
 
-<img width="600" height="200" alt="image" src="https://github.com/user-attachments/assets/4dfcb9c3-d32a-43e5-91c8-0fadf14ca520" />
+<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/4dfcb9c3-d32a-43e5-91c8-0fadf14ca520" />
+<img width="975" height="580" alt="image" src="https://github.com/user-attachments/assets/f87d5eac-6d8e-4209-b7a9-9671f0d3a85e" />
+<img width="975" height="170" alt="image" src="https://github.com/user-attachments/assets/64ebb021-a3a6-4d89-89eb-844231e98f42" />
+<img width="975" height="571" alt="image" src="https://github.com/user-attachments/assets/57f7cb2a-95f6-4f89-b09a-185526935de4" />
+<img width="975" height="636" alt="image" src="https://github.com/user-attachments/assets/cdbbeee7-938c-45b0-992d-7feaa76b1712" />
+<img width="975" height="459" alt="image" src="https://github.com/user-attachments/assets/6c43ae0d-39d7-4313-9817-f0091f956d38" />
+<img width="975" height="766" alt="image" src="https://github.com/user-attachments/assets/d8cdff30-75c5-4dd9-b957-065f53ca33e3" />
+<img width="975" height="569" alt="image" src="https://github.com/user-attachments/assets/fc88bedb-0837-41be-bf00-7346c99b292d" />
+<img width="975" height="102" alt="image" src="https://github.com/user-attachments/assets/f85aa0c1-c22a-4307-92fd-a7935fdce507" />
+<img width="975" height="497" alt="image" src="https://github.com/user-attachments/assets/b0cefceb-de5d-4a13-8866-1a45da0a82d9" />
+<img width="975" height="447" alt="image" src="https://github.com/user-attachments/assets/5f33fb08-93c3-4433-831f-44482c78378a" />
+<img width="975" height="782" alt="image" src="https://github.com/user-attachments/assets/134e2dc2-37fd-4602-a09f-24d3f0ba32e3" />
+
+
 
 
 ### 2. Index Creation
