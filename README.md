@@ -176,8 +176,8 @@ This project focused on building a fully functional Splunk lab environment to un
   - fast - showcases only a few interesting fields.
   - smart - showcases a lot more interesting fields.
 - The main difference between smart and verbose modes is that when using transformation commands:
-  - smart - only displays statistics and visualizations, no events are displayed
-  - verbose - only displays events, statistics and visualizations
+  - smart - only displays statistics and visualizations, no events are displayed.
+  - verbose - only displays events, statistics and visualizations.
 - Applied Splunk search best practices.
 - Developed optimized SPL queries using:
   - fields
@@ -190,6 +190,11 @@ This project focused on building a fully functional Splunk lab environment to un
   - eval
   - fillnull
   - coalesce
+
+#### 📌 Screenshots as below: (from left to right)
+
+
+
 
 
 ### 7. Data Analysis & Transformations
