@@ -167,8 +167,6 @@ This project focused on building a fully functional Splunk lab environment to un
 <img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/a270c29c-e6ad-4271-a5a0-979d9d4cc915" />
 <img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/90ce4495-976d-430c-bdfe-2d7e54e15af0" />
 
-
-
 ### 6. SPL Query Development
 - Compared query performance using Job Inspector.
 - Learned that field names are sensitive while field values are not.
@@ -193,8 +191,30 @@ This project focused on building a fully functional Splunk lab environment to un
 
 #### 📌 Screenshots as below: (from left to right)
 
-
-
+<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/ed514acc-5b73-4e85-ab12-ad993f69758b" />
+<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/81bcdfb7-edcb-4923-8003-78744771ae20" />
+<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/18e12f22-0dc1-405f-bc00-f9afd84b81d0" />
+<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/a41eea78-0b44-4eee-8e0e-961e36c95707" />
+<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/e0884463-fb1b-495c-b3fb-0b6b30cb1fc0" />
+<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/91fd3b26-3594-4666-ad0e-1552006ee277" />
+<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/3708e8c0-fb20-4659-8a1c-408839ac8b3b" />
+<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/7df707c2-c51c-4782-b034-05374ff62d1a" />
+<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/b3b8478b-b6b1-4416-8136-8eb6a40756d0" />
+<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/66677559-8fb7-4dc7-99f2-17db8ff61638" />
+<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/bb134b2f-5e6f-4798-aec9-72df8fa31f54" />
+<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/1e3623a6-2e5f-49bb-ae43-ae79888469d1" />
+<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/aedf24ef-ff19-4998-8982-71ac8a9af4d2" />
+<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/e2c43f2e-c5da-4b10-b374-69fee0edb044" />
+<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/15c42749-bfd4-4929-966e-6f52d32a87c9" />
+<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/ef1509b3-c711-4fe3-992a-47f18c686810" />
+<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/152c4f67-744b-484c-8239-c2e073ff1850" />
+<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/06d49387-7146-48d3-be76-244822bda68d" />
+<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/729ba00f-d042-42f1-8432-221f55c3204e" />
+<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/de7dfcc4-036e-4f16-adde-75c1c05cf578" />
+<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/ea761b98-0b41-4757-835c-f47bd7b7f3dd" />
+<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/b6d97cd0-16e8-408e-82ba-913338eda74d" />
+<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/e86ec3bd-88d9-4572-88ae-9fe738bb9cf2" />
+<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/bdac85c4-fd73-477c-ae58-95fe8057064d" />
 
 
 ### 7. Data Analysis & Transformations
