@@ -59,11 +59,11 @@ This project focused on building a fully functional Splunk lab environment to un
 - Splunk Add-on Deployment for Windows & Sysmon
 
 ## 🔍 Steps Performed:
-1. Splunk Deployment & Configuration
-Installed Splunk Enterprise on Ubuntu.
-Configured Splunk services and web interface.
-Enabled automatic startup and validated functionality.
-Configured UTC time settings.
+### 1. Splunk Deployment & Configuration
+- Installed Splunk Enterprise on Ubuntu.
+- Configured Splunk services and web interface.
+- Enabled automatic startup and validated functionality.
+- Configured UTC time settings.
 2. Index Creation
 Learned Splunk indexing concepts.
 Created a dedicated security monitoring index named mydfir-soc.
