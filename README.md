@@ -1,5 +1,5 @@
-# Splunk SIEM Fundamentals &amp Security Monitoring
-Splunk SIEM Fundamentals &amp; Security Monitoring – Hands-on project focused on log analysis, threat detection, and security monitoring using Splunk in a SOC environment.
+# Splunk SIEM Fundamentals & Security Monitoring
+
 
 # Microsoft Defender XDR: Phishing-Led Multi-Stage Attack Simulation & End-to-End SOC Investigation
 ###### (Email Security → Identity Protection → Endpoint Security)
