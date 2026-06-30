@@ -60,7 +60,7 @@ This project focused on building a fully functional Splunk lab environment to un
 - Enabled automatic startup and validated functionality.
 - Configured UTC time settings.
 
-📌 Screenshots as below: (from left to right)
+#### 📌 Screenshots as below: (from left to right)
 
 <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/a4669d4f-d615-49f7-a980-16fb698c0ea8" />
 <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/f87d5eac-6d8e-4209-b7a9-9671f0d3a85e" />
@@ -77,7 +77,7 @@ This project focused on building a fully functional Splunk lab environment to un
 - Learned Splunk indexing concepts.
 - Created a dedicated security monitoring index named mydfir-soc.
 
-📌 Screenshots as below:
+#### 📌 Screenshots as below:
 
 <img width="975" height="375" alt="image" src="https://github.com/user-attachments/assets/a0133714-40bb-4c22-a870-b584552fed42" />
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/cad7b9e9-e10b-4d67-9b70-eb61fa835e41" />
@@ -91,7 +91,7 @@ This project focused on building a fully functional Splunk lab environment to un
 - Modified inputs.conf to collect Windows Security and Application logs.
 - Forwarded logs to the Splunk indexer and validated ingestion.
 
-📌 Screenshots as below: (from left to right)
+#### 📌 Screenshots as below: (from left to right)
 
 <img width="330" height="200" alt="image" src="https://github.com/user-attachments/assets/97ee05da-b038-4a77-a335-5a05d1de97a0" />
 <img width="330" height="200" alt="image" src="https://github.com/user-attachments/assets/a9ac7a6c-204f-4f9c-860f-fd173e8beddb" />
@@ -109,8 +109,6 @@ This project focused on building a fully functional Splunk lab environment to un
 <img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/2e68db1a-deef-4ae0-889e-008f544d3302" />
 <img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/d53c58e1-4971-4661-8078-5d3685d6f119" />
 <img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/8c759f53-580a-42d7-b3a5-2a9e52e24265" />
-
-
 
 ### 4. Custom Log Ingestion
 - Uploaded and onboarded custom datasets including:
