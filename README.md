@@ -62,7 +62,7 @@ This project focused on building a fully functional Splunk lab environment to un
 
 📌 Screenshots as below:
 
-<img width="975" height="324" alt="image" src="https://github.com/user-attachments/assets/4dfcb9c3-d32a-43e5-91c8-0fadf14ca520" />
+<img width="600" height="200" alt="image" src="https://github.com/user-attachments/assets/4dfcb9c3-d32a-43e5-91c8-0fadf14ca520" />
 
 
 ### 2. Index Creation
