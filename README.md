@@ -79,7 +79,7 @@ This project focused on building a fully functional Splunk lab environment to un
 - Learned Splunk indexing concepts.
 - Created a dedicated security monitoring index named mydfir-soc.
 
-#### 📌 Screenshots as below:
+#### 📌 Screenshots as below: (from left to right)
 
 <img width="330" height="200" alt="image" src="https://github.com/user-attachments/assets/a0133714-40bb-4c22-a870-b584552fed42" />
 <img width="330" height="200" alt="image" src="https://github.com/user-attachments/assets/cad7b9e9-e10b-4d67-9b70-eb61fa835e41" />
@@ -122,6 +122,22 @@ This project focused on building a fully functional Splunk lab environment to un
   - Suricata Logs
   - System Logs
 - Configured sourcetypes, timestamps, hosts, and indexes.
+
+#### 📌 Screenshots as below: (from left to right)
+<img width="330" height="200" alt="image" src="https://github.com/user-attachments/assets/3b076fd3-e751-4b5a-a1e4-214d48f84657" />
+<img width="330" height="200" alt="image" src="https://github.com/user-attachments/assets/bc6c2de0-a04b-4a93-96ae-c00c30d896d8" />
+<img width="330" height="200" alt="image" src="https://github.com/user-attachments/assets/4e6814a1-69f7-4c56-b0a2-45596820aa8e" />
+<img width="330" height="200" alt="image" src="https://github.com/user-attachments/assets/681e69b6-99d4-49df-82bf-cb7afd7bb43d" />
+<img width="330" height="200" alt="image" src="https://github.com/user-attachments/assets/0fe96931-e46d-424d-a44b-4f125c6c5e62" />
+<img width="330" height="200" alt="image" src="https://github.com/user-attachments/assets/35d0c29a-4607-4af2-9dde-4a2c3c4cd2ec" />
+<img width="330" height="200" alt="image" src="https://github.com/user-attachments/assets/9f6a6b93-044d-4e82-9fff-1898e167b1e4" />
+<img width="330" height="200" alt="image" src="https://github.com/user-attachments/assets/93e15e54-03a3-4718-ab99-c14aafd411fd" />
+<img width="330" height="200" alt="image" src="https://github.com/user-attachments/assets/a76e696c-069e-4cde-a6ee-eed7dcf78957" />
+<img width="330" height="200" alt="image" src="https://github.com/user-attachments/assets/fce943c3-9dfe-4f86-b9ea-eee0b5441514" />
+<img width="330" height="200" alt="image" src="https://github.com/user-attachments/assets/8e1aa8e4-068a-4b30-a016-04aa5ca62100" />
+<img width="330" height="200" alt="image" src="https://github.com/user-attachments/assets/ecf478f5-452f-48f7-b7dc-dbf353fbfc14" />
+
+
 
 ### 5. Parsing & Field Extraction
 - Learned index-time and search-time parsing.
