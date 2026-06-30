@@ -171,11 +171,12 @@ This project focused on building a fully functional Splunk lab environment to un
 - Compared query performance using Job Inspector.
 - Learned that field names are sensitive while field values are not.
 - Reviewed the different search modes in Splunk:
-  - fast - showcases only a few interesting fields.
-  - smart - showcases a lot more interesting fields.
-- The main difference between smart and verbose modes is that when using transformation commands:
-  - smart - only displays statistics and visualizations, no events are displayed.
-  - verbose - only displays events, statistics and visualizations.
+  - Fast Mode – Displays a limited set of relevant fields to optimize search performance.
+  - Smart Mode – Displays a broader set of relevant fields while balancing performance and detail.
+  - Verbose Mode – Displays all available fields and event data, providing the most comprehensive search results.
+- The primary difference between Smart and Verbose search modes becomes apparent when using transforming commands:
+  - Smart Mode – Displays only the resulting statistics and visualizations; the underlying events are not shown.
+  - Verbose Mode – Displays the raw events alongside the resulting statistics and visualizations, providing complete visibility into the search results.
 - Applied Splunk search best practices.
 - Developed optimized SPL queries using:
   - fields
