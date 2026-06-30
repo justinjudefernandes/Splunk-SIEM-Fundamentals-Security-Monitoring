@@ -63,8 +63,8 @@ This project focused on building a fully functional Splunk lab environment to un
 📌 Screenshots as below:
 
 <img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/4dfcb9c3-d32a-43e5-91c8-0fadf14ca520" />
-<img width="975" height="580" alt="image" src="https://github.com/user-attachments/assets/f87d5eac-6d8e-4209-b7a9-9671f0d3a85e" />
-<img width="975" height="170" alt="image" src="https://github.com/user-attachments/assets/64ebb021-a3a6-4d89-89eb-844231e98f42" />
+<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/f87d5eac-6d8e-4209-b7a9-9671f0d3a85e" />
+<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/64ebb021-a3a6-4d89-89eb-844231e98f42" />
 <img width="975" height="571" alt="image" src="https://github.com/user-attachments/assets/57f7cb2a-95f6-4f89-b09a-185526935de4" />
 <img width="975" height="636" alt="image" src="https://github.com/user-attachments/assets/cdbbeee7-938c-45b0-992d-7feaa76b1712" />
 <img width="975" height="459" alt="image" src="https://github.com/user-attachments/assets/6c43ae0d-39d7-4313-9817-f0091f956d38" />
