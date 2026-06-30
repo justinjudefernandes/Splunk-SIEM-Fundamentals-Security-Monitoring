@@ -60,6 +60,11 @@ This project focused on building a fully functional Splunk lab environment to un
 - Enabled automatic startup and validated functionality.
 - Configured UTC time settings.
 
+📌 Screenshots as below:
+
+<img width="975" height="324" alt="image" src="https://github.com/user-attachments/assets/4dfcb9c3-d32a-43e5-91c8-0fadf14ca520" />
+
+
 ### 2. Index Creation
 - Learned Splunk indexing concepts.
 - Created a dedicated security monitoring index named mydfir-soc.
