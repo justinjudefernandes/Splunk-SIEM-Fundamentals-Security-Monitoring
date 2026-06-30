@@ -189,6 +189,9 @@ This project focused on building a fully functional Splunk lab environment to un
   - eval
   - fillnull
   - coalesce
+- Used these transforming commands to generate statistics and trends.
+- Performed event aggregation and time-based analysis.
+- Created summaries using stats and timechart commands.
 
 #### 📌 Screenshots as below: (from left to right)
 
@@ -217,17 +220,12 @@ This project focused on building a fully functional Splunk lab environment to un
 <img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/e86ec3bd-88d9-4572-88ae-9fe738bb9cf2" />
 <img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/bdac85c4-fd73-477c-ae58-95fe8057064d" />
 
-### 7. Data Analysis & Transformations
-- Used transforming commands to generate statistics and trends.
-- Performed event aggregation and time-based analysis.
-- Created summaries using stats and timechart commands.
-
-### 8. Lookup Table Enrichment
+### 7. Lookup Table Enrichment
 - Created a VIP user lookup table.
 - Uploaded and integrated lookup data into searches.
 - Enriched security events with user role information.
 
-### 9. Security Dashboard Creation
+### 8. Security Dashboard Creation
 - Designed a Linux Activity dashboard.
 - Implemented panels for:
   - Top User Failed Logins
@@ -235,16 +233,16 @@ This project focused on building a fully functional Splunk lab environment to un
   - Successful Logins
 - Visualized authentication activity for security monitoring.
 
-### 10. Alert Engineering
+### 9. Alert Engineering
 - Developed a Brute Force Detection alert.
 - Configured scheduled execution every minute.
 - Tested alert triggering and validated alert management workflows.
 
-### 11. Scheduled Reporting
+### 10. Scheduled Reporting
 - Created a Weekly Failed Logins report.
 - Scheduled automated report generation for SOC review.
 
-### 12. Splunk App Integration
+### 11. Splunk App Integration
 - Installed and validated:
   - Splunk Add-on for Microsoft Windows
   - Splunk Add-on for Sysmon
