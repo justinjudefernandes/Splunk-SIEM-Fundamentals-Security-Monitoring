@@ -185,30 +185,30 @@ The environment was used to implement and validate security monitoring use cases
 
 📌 Refer to the below screenshots: (left to right)
 
-<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/ed514acc-5b73-4e85-ab12-ad993f69758b" />
-<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/81bcdfb7-edcb-4923-8003-78744771ae20" />
-<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/18e12f22-0dc1-405f-bc00-f9afd84b81d0" />
-<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/a41eea78-0b44-4eee-8e0e-961e36c95707" />
-<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/e0884463-fb1b-495c-b3fb-0b6b30cb1fc0" />
-<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/91fd3b26-3594-4666-ad0e-1552006ee277" />
-<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/3708e8c0-fb20-4659-8a1c-408839ac8b3b" />
-<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/7df707c2-c51c-4782-b034-05374ff62d1a" />
-<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/b3b8478b-b6b1-4416-8136-8eb6a40756d0" />
-<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/66677559-8fb7-4dc7-99f2-17db8ff61638" />
-<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/bb134b2f-5e6f-4798-aec9-72df8fa31f54" />
-<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/1e3623a6-2e5f-49bb-ae43-ae79888469d1" />
-<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/aedf24ef-ff19-4998-8982-71ac8a9af4d2" />
-<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/e2c43f2e-c5da-4b10-b374-69fee0edb044" />
-<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/15c42749-bfd4-4929-966e-6f52d32a87c9" />
-<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/ef1509b3-c711-4fe3-992a-47f18c686810" />
-<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/152c4f67-744b-484c-8239-c2e073ff1850" />
-<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/06d49387-7146-48d3-be76-244822bda68d" />
-<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/729ba00f-d042-42f1-8432-221f55c3204e" />
-<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/de7dfcc4-036e-4f16-adde-75c1c05cf578" />
-<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/ea761b98-0b41-4757-835c-f47bd7b7f3dd" />
-<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/b6d97cd0-16e8-408e-82ba-913338eda74d" />
-<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/e86ec3bd-88d9-4572-88ae-9fe738bb9cf2" />
-<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/bdac85c4-fd73-477c-ae58-95fe8057064d" />
+<img width="260" height="230" alt="image" src="https://github.com/user-attachments/assets/ed514acc-5b73-4e85-ab12-ad993f69758b" />
+<img width="260" height="230" alt="image" src="https://github.com/user-attachments/assets/81bcdfb7-edcb-4923-8003-78744771ae20" />
+<img width="260" height="230" alt="image" src="https://github.com/user-attachments/assets/18e12f22-0dc1-405f-bc00-f9afd84b81d0" />
+<img width="260" height="230" alt="image" src="https://github.com/user-attachments/assets/a41eea78-0b44-4eee-8e0e-961e36c95707" />
+<img width="260" height="230" alt="image" src="https://github.com/user-attachments/assets/e0884463-fb1b-495c-b3fb-0b6b30cb1fc0" />
+<img width="260" height="230" alt="image" src="https://github.com/user-attachments/assets/91fd3b26-3594-4666-ad0e-1552006ee277" />
+<img width="260" height="230" alt="image" src="https://github.com/user-attachments/assets/3708e8c0-fb20-4659-8a1c-408839ac8b3b" />
+<img width="260" height="230" alt="image" src="https://github.com/user-attachments/assets/7df707c2-c51c-4782-b034-05374ff62d1a" />
+<img width="260" height="230" alt="image" src="https://github.com/user-attachments/assets/b3b8478b-b6b1-4416-8136-8eb6a40756d0" />
+<img width="260" height="230" alt="image" src="https://github.com/user-attachments/assets/66677559-8fb7-4dc7-99f2-17db8ff61638" />
+<img width="260" height="230" alt="image" src="https://github.com/user-attachments/assets/bb134b2f-5e6f-4798-aec9-72df8fa31f54" />
+<img width="260" height="230" alt="image" src="https://github.com/user-attachments/assets/1e3623a6-2e5f-49bb-ae43-ae79888469d1" />
+<img width="260" height="230" alt="image" src="https://github.com/user-attachments/assets/aedf24ef-ff19-4998-8982-71ac8a9af4d2" />
+<img width="260" height="230" alt="image" src="https://github.com/user-attachments/assets/e2c43f2e-c5da-4b10-b374-69fee0edb044" />
+<img width="260" height="230" alt="image" src="https://github.com/user-attachments/assets/15c42749-bfd4-4929-966e-6f52d32a87c9" />
+<img width="260" height="230" alt="image" src="https://github.com/user-attachments/assets/ef1509b3-c711-4fe3-992a-47f18c686810" />
+<img width="260" height="230" alt="image" src="https://github.com/user-attachments/assets/152c4f67-744b-484c-8239-c2e073ff1850" />
+<img width="260" height="230" alt="image" src="https://github.com/user-attachments/assets/06d49387-7146-48d3-be76-244822bda68d" />
+<img width="260" height="230" alt="image" src="https://github.com/user-attachments/assets/729ba00f-d042-42f1-8432-221f55c3204e" />
+<img width="260" height="230" alt="image" src="https://github.com/user-attachments/assets/de7dfcc4-036e-4f16-adde-75c1c05cf578" />
+<img width="260" height="230" alt="image" src="https://github.com/user-attachments/assets/ea761b98-0b41-4757-835c-f47bd7b7f3dd" />
+<img width="260" height="230" alt="image" src="https://github.com/user-attachments/assets/b6d97cd0-16e8-408e-82ba-913338eda74d" />
+<img width="260" height="230" alt="image" src="https://github.com/user-attachments/assets/e86ec3bd-88d9-4572-88ae-9fe738bb9cf2" />
+<img width="260" height="230" alt="image" src="https://github.com/user-attachments/assets/bdac85c4-fd73-477c-ae58-95fe8057064d" />
 
 ### 7. Lookup Table Enrichment
 - Created a VIP user lookup table.
@@ -217,14 +217,14 @@ The environment was used to implement and validate security monitoring use cases
 
 📌 Refer to the below screenshots: (left to right)
 
-<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/e96b1010-112e-46f8-8337-d5afe82942db" />
-<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/97a42a5d-7816-40d1-86fd-0e7d99df2bce" />
-<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/39ba6d5a-a6cb-403e-8401-82af2890cd36" />
-<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/4d4466f0-ef5c-4cee-9f7a-b39be65d95d2" />
-<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/c9b5a3ad-3218-442b-aa81-0dd36216396d" />
-<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/b86894fc-da90-4577-9f3b-431d7d784a87" />
-<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/442ed2aa-6df5-4903-b2b1-b9854508d7d8" />
-<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/319ebb3f-603c-4a92-b6fe-721f422ec195" />
+<img width="260" height="230" alt="image" src="https://github.com/user-attachments/assets/e96b1010-112e-46f8-8337-d5afe82942db" />
+<img width="260" height="230" alt="image" src="https://github.com/user-attachments/assets/97a42a5d-7816-40d1-86fd-0e7d99df2bce" />
+<img width="260" height="230" alt="image" src="https://github.com/user-attachments/assets/39ba6d5a-a6cb-403e-8401-82af2890cd36" />
+<img width="260" height="230" alt="image" src="https://github.com/user-attachments/assets/4d4466f0-ef5c-4cee-9f7a-b39be65d95d2" />
+<img width="260" height="230" alt="image" src="https://github.com/user-attachments/assets/c9b5a3ad-3218-442b-aa81-0dd36216396d" />
+<img width="260" height="230" alt="image" src="https://github.com/user-attachments/assets/b86894fc-da90-4577-9f3b-431d7d784a87" />
+<img width="392" height="230" alt="image" src="https://github.com/user-attachments/assets/442ed2aa-6df5-4903-b2b1-b9854508d7d8" />
+<img width="393" height="230" alt="image" src="https://github.com/user-attachments/assets/319ebb3f-603c-4a92-b6fe-721f422ec195" />
 
 ### 8. Security Dashboard Creation
 - Designed a Linux Activity dashboard.
@@ -236,18 +236,18 @@ The environment was used to implement and validate security monitoring use cases
 
 📌 Refer to the below screenshots: (left to right)
 
-<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/aed58d44-a182-43cc-947e-68d835521029" />
-<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/1d4153a3-7ade-4869-bb2f-41c5253b65fe" />
-<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/cd7a88da-f421-4077-a464-67460c400421" />
-<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/b5b27740-96c5-492a-995b-bec74e3df74b" />
-<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/bedafa77-288d-4cc2-b5b1-13947041ed49" />
-<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/152b650c-00f8-4a26-97b3-02099dfa50db" />
-<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/d7e0d572-abc7-4b22-adc3-b3be9ca564f1" />
-<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/a6631258-4780-4644-8968-947ff8189059" />
-<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/8cbad0f0-e80d-4f41-8076-8366824763f8" />
-<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/259dfe93-ab56-41e0-812d-b71cf5120748" />
-<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/3d01b262-b2a0-48c6-bf16-786da2cfcfe4" />
-<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/9a79b05e-284b-458e-8e54-ca87f7bca535" />
+<img width="260" height="230" alt="image" src="https://github.com/user-attachments/assets/aed58d44-a182-43cc-947e-68d835521029" />
+<img width="260" height="230" alt="image" src="https://github.com/user-attachments/assets/1d4153a3-7ade-4869-bb2f-41c5253b65fe" />
+<img width="260" height="230" alt="image" src="https://github.com/user-attachments/assets/cd7a88da-f421-4077-a464-67460c400421" />
+<img width="260" height="230" alt="image" src="https://github.com/user-attachments/assets/b5b27740-96c5-492a-995b-bec74e3df74b" />
+<img width="260" height="230" alt="image" src="https://github.com/user-attachments/assets/bedafa77-288d-4cc2-b5b1-13947041ed49" />
+<img width="260" height="230" alt="image" src="https://github.com/user-attachments/assets/152b650c-00f8-4a26-97b3-02099dfa50db" />
+<img width="260" height="230" alt="image" src="https://github.com/user-attachments/assets/d7e0d572-abc7-4b22-adc3-b3be9ca564f1" />
+<img width="260" height="230" alt="image" src="https://github.com/user-attachments/assets/a6631258-4780-4644-8968-947ff8189059" />
+<img width="260" height="230" alt="image" src="https://github.com/user-attachments/assets/8cbad0f0-e80d-4f41-8076-8366824763f8" />
+<img width="260" height="230" alt="image" src="https://github.com/user-attachments/assets/259dfe93-ab56-41e0-812d-b71cf5120748" />
+<img width="260" height="230" alt="image" src="https://github.com/user-attachments/assets/3d01b262-b2a0-48c6-bf16-786da2cfcfe4" />
+<img width="260" height="230" alt="image" src="https://github.com/user-attachments/assets/9a79b05e-284b-458e-8e54-ca87f7bca535" />
 
 ### 9. Created Actionable Alerts 
 - Developed a Brute Force Detection alert.
@@ -256,14 +256,14 @@ The environment was used to implement and validate security monitoring use cases
 
 📌 Refer to the below screenshots: (left to right)
 
-<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/4f27102f-60e1-4ff5-89a7-c9fb4bd50855" />
-<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/65cdd571-4f45-4d80-ab8b-a7f05c15854b" />
-<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/651df90a-4eb2-4823-a175-6ca6d6a7aeb9" />
-<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/5c91bac1-13f8-413f-b6a8-ce01fca7df39" />
-<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/5edc1214-fbeb-4e8c-afe0-fafb76fd5916" />
-<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/b9f0434a-a5f8-4b65-a658-2d0e5fb51e62" />
-<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/b389d0a4-8e30-4af7-a968-80486fcb9632" />
-<img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/fc3c925b-4e5c-4c44-837b-40b6e2437baf" />
+<img width="260" height="230" alt="image" src="https://github.com/user-attachments/assets/4f27102f-60e1-4ff5-89a7-c9fb4bd50855" />
+<img width="260" height="230" alt="image" src="https://github.com/user-attachments/assets/65cdd571-4f45-4d80-ab8b-a7f05c15854b" />
+<img width="260" height="230" alt="image" src="https://github.com/user-attachments/assets/651df90a-4eb2-4823-a175-6ca6d6a7aeb9" />
+<img width="260" height="230" alt="image" src="https://github.com/user-attachments/assets/5c91bac1-13f8-413f-b6a8-ce01fca7df39" />
+<img width="260" height="230" alt="image" src="https://github.com/user-attachments/assets/5edc1214-fbeb-4e8c-afe0-fafb76fd5916" />
+<img width="260" height="230" alt="image" src="https://github.com/user-attachments/assets/b9f0434a-a5f8-4b65-a658-2d0e5fb51e62" />
+<img width="392" height="230" alt="image" src="https://github.com/user-attachments/assets/b389d0a4-8e30-4af7-a968-80486fcb9632" />
+<img width="393" height="230" alt="image" src="https://github.com/user-attachments/assets/fc3c925b-4e5c-4c44-837b-40b6e2437baf" />
 
 ### 10. Scheduled Reporting
 - Created a Weekly Failed Logins report.
@@ -271,11 +271,11 @@ The environment was used to implement and validate security monitoring use cases
 
 📌 Refer to the below screenshots: (left to right)
 
-<img width="330" height="200" alt="image" src="https://github.com/user-attachments/assets/75cf472b-89de-4b77-b7ce-63c81937371b" />
-<img width="330" height="200" alt="image" src="https://github.com/user-attachments/assets/48a63b9d-060b-46da-b967-507b37bf5334" />
-<img width="330" height="200" alt="image" src="https://github.com/user-attachments/assets/a0334c8a-fd55-44ba-945a-c773a31b9b32" />
-<img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/84d6d5f6-17c6-4ba6-8af5-2c1ae2bf5ec3" />
-<img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/d7bc453c-af5d-4a23-ac42-daef02eeb50d" />
+<img width="260" height="230" alt="image" src="https://github.com/user-attachments/assets/75cf472b-89de-4b77-b7ce-63c81937371b" />
+<img width="260" height="230" alt="image" src="https://github.com/user-attachments/assets/48a63b9d-060b-46da-b967-507b37bf5334" />
+<img width="260" height="230" alt="image" src="https://github.com/user-attachments/assets/a0334c8a-fd55-44ba-945a-c773a31b9b32" />
+<img width="392" height="230" alt="image" src="https://github.com/user-attachments/assets/84d6d5f6-17c6-4ba6-8af5-2c1ae2bf5ec3" />
+<img width="393" height="230" alt="image" src="https://github.com/user-attachments/assets/d7bc453c-af5d-4a23-ac42-daef02eeb50d" />
 
 ### 11. Splunk App Integration
 - Installed and validated:
@@ -285,16 +285,10 @@ The environment was used to implement and validate security monitoring use cases
 
 📌 Refer to the below screenshots: (left to right)
 
-<img width="330" height="200" alt="image" src="https://github.com/user-attachments/assets/1693e716-4c8d-4117-8140-5465a275e13a" />
-<img width="330" height="200" alt="image" src="https://github.com/user-attachments/assets/12149b2b-bf45-4f20-8e34-c8724a655f8d" />
-<img width="330" height="200" alt="image" src="https://github.com/user-attachments/assets/8128bbe3-be92-4a6d-a558-2e46bcbf6b5a" />
-<img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/50f9b68b-d9d1-4c53-a8c7-fb3d4529a059" />
-<img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/686af70e-4790-4fb2-9679-0825313d3375" />
-<img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/c55cb884-6f89-4a9a-9293-0f601d32fe0d" />
-<img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/c3d1a70f-c262-424a-a738-338c3f0cce1a" />
-
-
-
-
-
-
+<img width="260" height="230" alt="image" src="https://github.com/user-attachments/assets/1693e716-4c8d-4117-8140-5465a275e13a" />
+<img width="260" height="230" alt="image" src="https://github.com/user-attachments/assets/12149b2b-bf45-4f20-8e34-c8724a655f8d" />
+<img width="260" height="230" alt="image" src="https://github.com/user-attachments/assets/8128bbe3-be92-4a6d-a558-2e46bcbf6b5a" />
+<img width="392" height="230" alt="image" src="https://github.com/user-attachments/assets/50f9b68b-d9d1-4c53-a8c7-fb3d4529a059" />
+<img width="393" height="230" alt="image" src="https://github.com/user-attachments/assets/686af70e-4790-4fb2-9679-0825313d3375" />
+<img width="392" height="230" alt="image" src="https://github.com/user-attachments/assets/c55cb884-6f89-4a9a-9293-0f601d32fe0d" />
+<img width="393" height="230" alt="image" src="https://github.com/user-attachments/assets/c3d1a70f-c262-424a-a738-338c3f0cce1a" />
