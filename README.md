@@ -1,15 +1,17 @@
 # Splunk SIEM Fundamentals & Security Monitoring
 
 ## 🎯 Objective:
-To develop foundational Splunk SIEM skills by deploying a Splunk environment, onboarding multiple security log sources, performing SPL-based investigations, creating dashboards and alerts, and implementing security monitoring use cases commonly performed by SOC analysts.
+Deploy and configure Splunk Enterprise as a centralized security monitoring platform, onboard multiple security telemetry sources, develop SPL-based searches and detections, create dashboards and alerts, and implement SOC monitoring use cases across endpoint, authentication, and network telemetry.
 
 ## 📊 Project Overview:
-This project focused on building a fully functional Splunk lab environment to understand core SIEM operations. Activities included installing and configuring Splunk, onboarding multiple log sources, forwarding Windows event logs, performing SPL-based investigations, creating dashboards and alerts, enriching data with lookups, and developing security monitoring use cases. The project simulated real-world SOC analyst tasks and security investigations using Windows, Sysmon, Defender, PowerShell, Zeek, and Suricata logs.
+Configured a Splunk Enterprise SIEM environment to centralize and analyze security telemetry from Windows, Sysmon, Microsoft Defender, PowerShell, Zeek, and Suricata. The implementation covered log onboarding, data parsing, field extraction, SPL-based investigation, lookup enrichment, security dashboards, alerting, and scheduled reporting.
+
+The environment was used to implement and validate security monitoring use cases across authentication, endpoint, and network telemetry, providing a structured workflow for SOC monitoring, threat detection, and investigation.
 
 ## 🏗️ Infrastructure Deployment:
 <img width="400" height="600" alt="Splunk Lab Setup" src="https://github.com/user-attachments/assets/1599b9c1-e506-4d92-9613-ff3fb76eab19" />
 
-### 🧰 Tools Used:
+## 🧰 Tools Used:
 - Splunk Enterprise
 - Splunk Universal Forwarder
 - Search Processing Language (SPL)
@@ -23,23 +25,22 @@ This project focused on building a fully functional Splunk lab environment to un
 - Suricata Logs
 - CSV Lookup Tables
 
-### 🛠️ Capabilities Demonstrated:
-- Splunk SIEM Administration
-- Log Collection & Data Onboarding
-- Index Management
-- Forwarder Configuration
-- SPL Query Development
-- Search Optimization
-- Field Extraction (REX & EVAL)
-- Data Parsing & Normalization
-- Security Event Analysis
-- Dashboard Development
-- Alert Engineering
-- Scheduled Reporting
-- Lookup Table Enrichment
-- Security Monitoring & Threat Hunting Fundamentals
+## 🛠️ Capabilities Demonstrated:
+- Splunk SIEM administration
+- Security telemetry onboarding
+- Index and data management
+- Universal Forwarder configuration
+- SPL search and detection development
+- Search optimization
+- Field extraction and data normalization
+- Security event analysis
+- Dashboard development
+- Alert engineering
+- Scheduled security reporting
+- Lookup-based data enrichment
+- Security monitoring and threat hunting
 
-### 📁 Key Deliverables:
+## 📁 Key Deliverables:
 - Splunk Enterprise Deployment
 - Universal Forwarder Configuration
 - Windows Security Log Collection
@@ -76,8 +77,7 @@ This project focused on building a fully functional Splunk lab environment to un
 <img width="330" height="200" alt="image" src="https://github.com/user-attachments/assets/134e2dc2-37fd-4602-a09f-24d3f0ba32e3" />
 
 ### 2. Index Creation
-- Learned Splunk indexing concepts.
-- Created a dedicated security monitoring index named mydfir-soc.
+- Created and configured a dedicated security monitoring index (mydfir-soc) to organize and manage security telemetry.
 
 #### 📌 Screenshots as below: (from left to right)
 
@@ -137,7 +137,7 @@ This project focused on building a fully functional Splunk lab environment to un
 <img width="330" height="200" alt="image" src="https://github.com/user-attachments/assets/ecf478f5-452f-48f7-b7dc-dbf353fbfc14" />
 
 ### 5. Parsing & Field Extraction
-- Learned index-time and search-time parsing.
+- Applied index-time and search-time parsing concepts to structure and normalize security telemetry.
 - Performed field extraction using Regular Expressions (REX).
 - Extracted user and source IP fields from authentication logs.
 - Validated extracted fields across datasets.
@@ -166,17 +166,9 @@ This project focused on building a fully functional Splunk lab environment to un
 <img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/90ce4495-976d-430c-bdfe-2d7e54e15af0" />
 
 ### 6. SPL Query Development
-- Compared query performance using Job Inspector.
-- Learned that field names are sensitive while field values are not.
-- Reviewed the different search modes in Splunk:
-  - Fast Mode – Displays a limited set of relevant fields to optimize search performance.
-  - Smart Mode – Displays a broader set of relevant fields while balancing performance and detail.
-  - Verbose Mode – Displays all available fields and event data, providing the most comprehensive search results.
-- The primary difference between Smart and Verbose search modes becomes apparent when using transforming commands:
-  - Smart Mode – Displays only the resulting statistics and visualizations; the underlying events are not shown.
-  - Verbose Mode – Displays the raw events alongside the resulting statistics and visualizations, providing complete visibility into the search results.
-- Applied Splunk search best practices.
-- Developed optimized SPL queries using:
+- Applied SPL search syntax and field-handling practices when developing security investigations.
+- Evaluated search performance using Job Inspector and applied Splunk search optimization practices.
+- Developed optimized SPL searches using:
   - fields
   - table
   - where
