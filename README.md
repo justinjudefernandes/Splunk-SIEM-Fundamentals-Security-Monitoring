@@ -162,8 +162,8 @@ The environment was used to implement and validate security monitoring use cases
 <img width="260" height="200" alt="image" src="https://github.com/user-attachments/assets/8a2dfbd7-d821-463d-8509-2bd84827999b" />
 <img width="260" height="200" alt="image" src="https://github.com/user-attachments/assets/851d8465-1296-46d8-a449-515f4a281440" />
 <img width="260" height="200" alt="image" src="https://github.com/user-attachments/assets/04bf9727-a33e-4523-b92e-7d81b645ea23" />
-<img width="520" height="230" alt="image" src="https://github.com/user-attachments/assets/a270c29c-e6ad-4271-a5a0-979d9d4cc915" />
-<img width="520" height="230" alt="image" src="https://github.com/user-attachments/assets/90ce4495-976d-430c-bdfe-2d7e54e15af0" />
+<img width="450" height="230" alt="image" src="https://github.com/user-attachments/assets/a270c29c-e6ad-4271-a5a0-979d9d4cc915" />
+<img width="450" height="230" alt="image" src="https://github.com/user-attachments/assets/90ce4495-976d-430c-bdfe-2d7e54e15af0" />
 
 ### 6. SPL Query Development
 - Applied SPL search syntax and field-handling practices when developing security investigations.
