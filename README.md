@@ -63,9 +63,9 @@ The environment was used to implement and validate security monitoring use cases
 
 📌 Refer to the below screenshots: (left to right)
 
-<img width="250" height="230" alt="image" src="https://github.com/user-attachments/assets/a4669d4f-d615-49f7-a980-16fb698c0ea8" />
-<img width="250" height="230" alt="image" src="https://github.com/user-attachments/assets/f87d5eac-6d8e-4209-b7a9-9671f0d3a85e" />
-<img width="250" height="230" alt="image" src="https://github.com/user-attachments/assets/64ebb021-a3a6-4d89-89eb-844231e98f42" />
+<img width="260" height="230" alt="image" src="https://github.com/user-attachments/assets/a4669d4f-d615-49f7-a980-16fb698c0ea8" />
+<img width="260" height="230" alt="image" src="https://github.com/user-attachments/assets/f87d5eac-6d8e-4209-b7a9-9671f0d3a85e" />
+<img width="260" height="230" alt="image" src="https://github.com/user-attachments/assets/64ebb021-a3a6-4d89-89eb-844231e98f42" />
 <img width="390" height="230" alt="image" src="https://github.com/user-attachments/assets/b0900db8-812b-4be8-97a2-2a5a3c233509" />
 <img width="390" height="230" alt="image" src="https://github.com/user-attachments/assets/76ccdd89-61c9-489d-894d-6419dd4027ba" />
 <img width="390" height="230" alt="image" src="https://github.com/user-attachments/assets/6c43ae0d-39d7-4313-9817-f0091f956d38" />
